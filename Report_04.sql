@@ -19,6 +19,4 @@ and ShipmentStatus not in (1,9,10)
 and pv.name like '%Soyabean%'
 and  CategoryId= 108
 
---84
---108
 

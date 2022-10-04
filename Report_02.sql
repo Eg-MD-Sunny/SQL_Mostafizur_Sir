@@ -16,6 +16,3 @@ and IsCancelled=0
 and HasFailedBeforeDispatch=0
 and ShipmentStatus not in (1,9,10)
 and CategoryId= 61
-
---61
---1512
